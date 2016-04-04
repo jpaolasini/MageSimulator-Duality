@@ -60,6 +60,10 @@ Assets/Gizmos
 Assets/LeapMotion
 Assets/LeapMotion+OVR
 
+Assets/LeapMotion.*
+Assets/LeapMotion+OVR.*
+Assets/Gizmos.meta
+
 Plugins/Android
 Plugins/LeapCSharp.bundle
 Plugins/OculusPlugin.bundle
